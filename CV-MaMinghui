@@ -11,7 +11,7 @@
 <body>
   <iframe class = "iframeCss" 
     ref = "iframe" 
-    src = "CV-MaMinghui.pdf" 
+    src = "/CV-MaMinghui.pdf" 
     width = 100%； 
     height = 1000px
     scrolling = "no" 
